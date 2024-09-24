@@ -12,6 +12,15 @@ body{
     justify-content: center;
     background-color: black;
 }
+
+
+span {
+
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+
 .greetings{
     font-size: 6rem;
     font-weight: 900;
